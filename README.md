@@ -76,27 +76,27 @@ sns.heatmap(df.corr(),annot=True)
 
 ### Data
 
-![](./1.png)
+![image](https://user-images.githubusercontent.com/128135244/229702692-d3df1987-e496-4476-91f7-a3c9a7f51b1e.png)
 
 ### Data head
 
-![](./2.png)
+![image](https://user-images.githubusercontent.com/128135244/229702739-dffe1c16-02ab-41b6-8ce5-7cd45c457a5c.png)
 
 ### Data Information
 
-![](./3.png)
+![image](https://user-images.githubusercontent.com/128135244/229702773-10134758-da1f-4e97-b21d-dad27fcffcc8.png)
 
 ### Data describe
 
-![](./4.png)
+![image](https://user-images.githubusercontent.com/128135244/229702799-939fac6e-c279-4fec-8db9-4c018ea87477.png)
 
 ### Data Null Values
 
-![](./5.png)
+![image](https://user-images.githubusercontent.com/128135244/229702838-f16b02a1-212c-4697-8a03-5d327317e216.png)
 
 ### Data Types
 
-![](./6.png)
+![image](https://user-images.githubusercontent.com/128135244/229702863-9c61138e-800c-40f1-ad36-61ff8ee16b79.png)
 
 ### Scatterplot
 
